@@ -1,4 +1,3 @@
 streamlit
 pandas
-st-gsheets-connection
-git+https://github.com/m-pagnoux/leboncoin-api.git
+https://github.com/etienne-hd/lbc/archive/refs/heads/master.zip
