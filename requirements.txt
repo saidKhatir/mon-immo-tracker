@@ -1,4 +1,4 @@
 streamlit
-leboncoin-api
 pandas
+leboncoin-api
 st-gsheets-connection
