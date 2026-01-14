@@ -1,0 +1,4 @@
+streamlit
+leboncoin-api
+pandas
+st-gsheets-connection
